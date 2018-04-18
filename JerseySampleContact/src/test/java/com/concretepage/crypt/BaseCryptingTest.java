@@ -10,6 +10,7 @@ public class BaseCryptingTest {
 	public String sId ;
 	public String sname ;
 	public String scompany ;
+	
 	@Before
 	public void setUp() throws Exception {
 		sId = "123456" ;
