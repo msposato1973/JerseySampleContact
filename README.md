@@ -21,3 +21,5 @@ It can be done with any version of eclipse.
 If, in the eventuality, the compilation from problems, you must first clean up the project, then right click on the project, maven> update project,
 after say, launch the command for a "maven install"
 or : click on Run As> Maven Install
+
+I just fixed the formatting to make the downlod more accessible and catch up, at home with problems with ilmio git bash the procedure had put me all in one directory
